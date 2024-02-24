@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://badge.mediaplus.ma/darkblue/<mberri>
+
+[![<mberri>'s 42 stats](https://badge.mediaplus.ma/darkblue/<mberri>)](https://github.com/oakoudad/badge42)
